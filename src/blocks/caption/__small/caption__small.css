@@ -1,0 +1,23 @@
+.caption__small {
+  text-align: center;
+
+  padding: 0;
+  margin: 0;
+
+  margin-top: 30px;
+  margin-bottom: 5px;
+
+  box-sizing: content-box;
+
+  /* 1440/font-helper-1440 */
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.22;
+  letter-spacing: 0.28em;
+
+  /* backgroung-808080 */
+
+  color: #808080;
+}
