@@ -8,6 +8,10 @@ function App() {
   return (
     <div className="App">
       <Header />
+      <section className='Section'>
+
+
+      </section>
     </div>
   );
 }
