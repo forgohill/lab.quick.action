@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/lab.action.quick/static/css/main.073c9b0a.css",
-    "main.js": "/lab.action.quick/static/js/main.f639c751.js",
-    "static/js/787.aee11876.chunk.js": "/lab.action.quick/static/js/787.aee11876.chunk.js",
-    "static/media/logo.svg": "/lab.action.quick/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/lab.action.quick/index.html",
-    "main.073c9b0a.css.map": "/lab.action.quick/static/css/main.073c9b0a.css.map",
-    "main.f639c751.js.map": "/lab.action.quick/static/js/main.f639c751.js.map",
-    "787.aee11876.chunk.js.map": "/lab.action.quick/static/js/787.aee11876.chunk.js.map"
+    "main.css": "/lab.quick.action/static/css/main.b07c83e4.css",
+    "main.js": "/lab.quick.action/static/js/main.41feec0d.js",
+    "static/js/787.aee11876.chunk.js": "/lab.quick.action/static/js/787.aee11876.chunk.js",
+    "index.html": "/lab.quick.action/index.html",
+    "main.b07c83e4.css.map": "/lab.quick.action/static/css/main.b07c83e4.css.map",
+    "main.41feec0d.js.map": "/lab.quick.action/static/js/main.41feec0d.js.map",
+    "787.aee11876.chunk.js.map": "/lab.quick.action/static/js/787.aee11876.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.f639c751.js"
+    "static/css/main.b07c83e4.css",
+    "static/js/main.41feec0d.js"
   ]
 }
